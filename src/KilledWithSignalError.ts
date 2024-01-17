@@ -1,4 +1,4 @@
-import ExtendableError from "ts-error";
+import { ExtendableError } from "ts-error";
 
 /**
  * Represents an error that occurs when a process is killed with a signal.

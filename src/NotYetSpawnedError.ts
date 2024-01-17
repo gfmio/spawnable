@@ -1,4 +1,4 @@
-import ExtendableError from "ts-error";
+import { ExtendableError } from "ts-error";
 
 /**
  * Error thrown when a process has not been spawned yet.

@@ -1,4 +1,4 @@
-import ExtendableError from "ts-error";
+import { ExtendableError } from "ts-error";
 
 /**
  * Error class representing an error when a process exits with a specific exit code.

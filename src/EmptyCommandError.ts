@@ -1,4 +1,4 @@
-import ExtendableError from "ts-error";
+import { ExtendableError } from "ts-error";
 
 /**
  * Error thrown when the provided command is empty.
