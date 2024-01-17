@@ -1,6 +1,6 @@
 {
   "name": "spawnable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Helpers for spawning child processes",
   "repository": "https://github.com/gfmio/spawnable",
   "author": "Frédérique Mittelstaedt <git@gfm.io>",
