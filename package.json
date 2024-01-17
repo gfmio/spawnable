@@ -17,9 +17,7 @@
   ],
   "exports": {
     ".": {
-      "default": "./dist/index.js",
       "import": "./dist/index.js",
-      "node": "./dist/index.js",
       "require": "./dist/index.cjs",
       "types": "./dist/index.d.ts"
     }
